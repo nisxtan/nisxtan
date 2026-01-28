@@ -19,7 +19,7 @@ I’m passionate about building end-to-end applications and enjoy working across
 ### ⚙️ Backend
 - Node.js  
 - Express.js  
-- NestJS  
+
 
 ### 🗄️ Databases
 - MongoDB  
